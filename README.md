@@ -29,7 +29,7 @@ Use `{ClassName}` placeholders in your templates, which will be automatically re
 
 ## Installation
 
-In order to use **Assets Directory Creator**, you can import the Unity Package available in [Releases](https://github.com/Theo-gamedev/Unity-Assets-Directory-Creator/releases)
+In order to use **Assets Directory Creator**, you can import the Unity Package available in [Releases](https://github.com/Theo-Mestre/Unity-Assets-Directory-Creator/releases)
 
 You can also download the sources and drop them in your project Assets folder.
 
