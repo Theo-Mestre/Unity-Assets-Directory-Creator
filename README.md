@@ -2,7 +2,7 @@
 
 **Assets Directory Creator** is a package made for Unity 6 to allow quick way to create directories and assets in Unity.
 
-![image](https://github.com/Theo-Mestre/Unity-Assets-Directory-Creator/blob/main/ReadMeAssets/AssetsDirectoryCreator.gif)
+![AssetsDirectoryCreator](https://github.com/user-attachments/assets/58058d7b-7924-4d32-b26c-397dde9e8805)
 
 ## Features
 
