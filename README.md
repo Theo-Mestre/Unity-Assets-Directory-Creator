@@ -26,6 +26,13 @@ Use `{ClassName}` placeholders in your templates, which will be automatically re
 
 ![image](https://github.com/user-attachments/assets/21cda0c8-ea09-455d-a09e-7617c265ff7e)
 
+Availiable Templates:
+- Mono Behaviour Template: An empty MonoBehaviour class.
+- Scriptable Object Template: An empty Scriptable Object.
+- Editor Window Template: A template class for Editor Window.
+- Static Class Template: An empty static class.
+- MonoBehaviour Singleton Template: A ready to use monobehaviour singleton class.
+- Coroutines Helper: A static class to start and centralise coroutines.
 
 ## Installation
 
